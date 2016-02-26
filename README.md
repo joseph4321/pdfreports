@@ -10,4 +10,4 @@ Programming languages used: perl (gather json information), php (pdf report gene
 OS: CentOS 6.3
 
 <img src="https://raw.githubusercontent.com/joseph4321/pdfreports/master/shot1.png" alt="Drawing" style="width: 400px;height: 400px"/>
-<img src="https://raw.githubusercontent.com/joseph4321/pdfreports/master/shot1.png" alt="Drawing" style="width: 400px;height: 400px"/>
+<img src="https://raw.githubusercontent.com/joseph4321/pdfreports/master/shot2.png" alt="Drawing" style="width: 400px;height: 400px"/>
